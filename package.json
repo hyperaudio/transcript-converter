@@ -1,7 +1,7 @@
 {
   "name": "@hyperaudio/transcript-converter",
   "version": "0.0.4",
-  "description": "Hyperaudio HTML transcript to JSON converter",
+  "description": "Converts various formats of JSON transcripts to Hyperaudio format",
   "main": "cjs/index.js",
   "browser": "dist/transcript-converter.js",
   "module": "es/index.js",
@@ -60,6 +60,5 @@
     "rollup-plugin-uglify": "^1.0.1"
   },
   "dependencies": {
-    "htmlparser2": "^3.9.2"
   }
 }
